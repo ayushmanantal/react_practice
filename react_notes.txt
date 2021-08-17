@@ -1,0 +1,3 @@
+//React Notes
+
+useState(0) - a hook
